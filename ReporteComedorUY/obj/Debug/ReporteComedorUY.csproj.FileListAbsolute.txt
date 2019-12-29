@@ -1,0 +1,9 @@
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\bin\Debug\ReporteComedorUY.exe.config
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\bin\Debug\ReporteComedorUY.exe
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\bin\Debug\ReporteComedorUY.pdb
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.Form1.resources
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.exe
+C:\Users\Windows 10\source\repos\ReporteComedorUY\ReporteComedorUY\obj\Debug\ReporteComedorUY.pdb
