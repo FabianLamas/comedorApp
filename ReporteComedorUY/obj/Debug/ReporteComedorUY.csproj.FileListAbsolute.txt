@@ -17,3 +17,14 @@ C:\Users\tartgvvtedes\Documents\fabi\Reporte comedor winforms\comedorApp\Reporte
 C:\Users\tartgvvtedes\Documents\fabi\Reporte comedor winforms\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.Properties.Resources.resources
 C:\Users\tartgvvtedes\Documents\fabi\Reporte comedor winforms\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.GenerateResource.Cache
 C:\Users\tartgvvtedes\Documents\fabi\Reporte comedor winforms\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.ResolveComReference.cache
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\bin\Debug\ReporteComedorUY.exe.config
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\bin\Debug\ReporteComedorUY.exe
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\bin\Debug\ReporteComedorUY.pdb
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csprojAssemblyReference.cache
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.ResolveComReference.cache
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.ReporteComedorUY.resources
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.Properties.Resources.resources
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.GenerateResource.cache
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.csproj.CoreCompileInputs.cache
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.exe
+C:\Users\iclavero\Desktop\AppReporteComedor\comedorApp\ReporteComedorUY\obj\Debug\ReporteComedorUY.pdb
